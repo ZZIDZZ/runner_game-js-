@@ -5,4 +5,6 @@ gameplay controls:
 arrow(up, down, left, right)
 
 if game over:
-press r
+press r   
+![Alt text](relative/path/to/fig1.png?raw=true "Title")   
+![Alt text](relative/path/to/fig2.png?raw=true "Title")
