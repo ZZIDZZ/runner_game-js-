@@ -11,7 +11,7 @@ var shooting = false;
 var crouching = false;
 var jumpSpeedBuffer;
 var onAir = false;
-var playerSpeed = 1;
+var playerSpeed = 3;
 var obstacleInterval = 200;
 var groundPos = 300;
 var gameOver = false;
